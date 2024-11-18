@@ -19,7 +19,7 @@ class MainScreen extends StatelessWidget {
       ),
       body: Center(
         child: Padding(
-          padding: const EdgeInsets.all(16.0), // Menambahkan padding
+          padding: const EdgeInsets.all(16.0),
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
@@ -29,8 +29,7 @@ class MainScreen extends StatelessWidget {
                   fontFamily: themeProvider.font,
                   fontSize: 24,
                 ),
-                textAlign:
-                    TextAlign.center, // Mengatur teks menjadi rata tengah
+                textAlign: TextAlign.center,
               ),
               const SizedBox(height: 20),
               ElevatedButton(

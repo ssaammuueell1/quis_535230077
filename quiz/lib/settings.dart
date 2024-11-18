@@ -46,11 +46,10 @@ class SettingsScreen extends StatelessWidget {
                 ElevatedButton(
                   onPressed: () {
                     themeProvider.setTheme(ThemeData(
-                      primaryColor: Colors.greenAccent, // Warna hijau neon
-                      scaffoldBackgroundColor:
-                          Colors.black, // Latar belakang hitam
+                      primaryColor: Colors.greenAccent,
+                      scaffoldBackgroundColor: Colors.black,
                       textTheme: ThemeData.light().textTheme.apply(
-                            bodyColor: Colors.greenAccent, // Warna teks putih
+                            bodyColor: Colors.greenAccent,
                             displayColor: Colors.green[400],
                           ),
                     ));
