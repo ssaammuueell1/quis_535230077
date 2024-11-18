@@ -57,31 +57,31 @@ flutter:
   # the material Icons class.
   uses-material-design: true
 
-  fonts:
-    - family: Poppins
-      fonts:
-        - asset: assets/fonts/Poppins-Regular.ttf
-        - asset: assets/fonts/Poppins-Bold.ttf
-          weight: 700
-    - family: OpenSans
-      fonts:
-        - asset: assets/fonts/OpenSans-Regular.ttf
-        - asset: assets/fonts/OpenSans-Bold.ttf
-          weight: 700
-    - family: Doto
-      fonts:
-        - asset: assets/fonts/Doto-Regular.ttf
-    - family: Arial
-      fonts:
-        - asset: assets/fonts/Arial-Regular.ttf
-    - family: Roboto
-      fonts:
-        - asset: assets/fonts/Roboto-Regular.ttf
-    - family: TimesNewRoman
-      fonts:
-        - asset: assets/fonts/TimesNewRoman-Regular.ttf
+  # fonts:
+  #   - family: Poppins
+  #     fonts:
+  #       - asset: assets/fonts/Poppins-Regular.ttf
+  #       - asset: assets/fonts/Poppins-Bold.ttf
+  #         weight: 700
+  #   - family: OpenSans
+  #     fonts:
+  #       - asset: assets/fonts/OpenSans-Regular.ttf
+  #       - asset: assets/fonts/OpenSans-Bold.ttf
+  #         weight: 700
+  #   - family: Doto
+  #     fonts:
+  #       - asset: assets/fonts/Doto-Regular.ttf
+  #   - family: Arial
+  #     fonts:
+  #       - asset: assets/fonts/Arial-Regular.ttf
+  #   - family: Roboto
+  #     fonts:
+  #       - asset: assets/fonts/Roboto-Regular.ttf
+  #   - family: TimesNewRoman
+  #     fonts:
+  #       - asset: assets/fonts/TimesNewRoman-Regular.ttf
 
-        - asset: assets/fonts/Doto-Regular.ttf
+  #       - asset: assets/fonts/Doto-Regular.ttf
 
   # To add assets to your application, add an assets section, like this:
   # assets:

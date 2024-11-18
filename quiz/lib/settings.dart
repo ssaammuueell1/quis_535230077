@@ -97,12 +97,6 @@ class SettingsScreen extends StatelessWidget {
                   },
                   child: const Text('Times New Roman'),
                 ),
-                ElevatedButton(
-                  onPressed: () {
-                    themeProvider.setFont('Arial');
-                  },
-                  child: const Text('Arial'),
-                ),
               ],
             ),
           ],
